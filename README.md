@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EdmarlenCatid</h1>
 <h3 align="center">A humble BSIT student from Phinma-COC. Illustrator.</h3>
 
-- 🔭 I’m currently working on **1st year one way coding**
+- 🔭 I’m currently working on **1st year defense coding**
 
 - 🌱 I’m currently learning **Python Language, Graphic Design**
 
