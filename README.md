@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **1st year defense coding**
 
-- 🌱 I’m currently learning **Python Language, Graphic Design**
+- 🌱 I’m currently learning **Python Language, Graphic Design, Illustration Digital & Traditional**
 
-- 💬 Ask me about **Illustrations, Python, Digital Art**
+- 💬 Ask me about **Art, Python, Digital Art**
 
 - 📫 How to reach me **edfrosting6@gmail.com**
 
-- ⚡ Fun fact **Coffee lover, Animal Lover, Illustrator**
+- ⚡ Fun fact **Coffee lover, Animal Lover, Artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
