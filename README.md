@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python Language, Graphic Design, Illustration Digital & Traditional**
 
-- 💬 Ask me about **Art, Python, Digital Art**
+- 💬 Ask me about **Art, Python Language**
 
 - 📫 How to reach me **edfrosting6@gmail.com**
 
